@@ -1,3 +1,5 @@
+<img src="http://pool.bitcoinn.biz/bitcoin-nova.png">
+
 # Bitcoin Nova CPU &amp; GPU Miner
 Binary Downloads:
 https://github.com/Bitcoin-N/btn-miner/releases/
